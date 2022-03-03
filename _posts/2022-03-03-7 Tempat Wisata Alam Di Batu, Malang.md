@@ -2,9 +2,9 @@
 layout: post
 title: 7 Tempat Wisata Alam Di Batu, Malang Yang Ngehits Banget!
 subtitle: Inspirasi Berlibur Jika Malang itu Batu, maka Bandung adalah Lembang.
-cover-img: /assets/img/wisata malang.jpg
-thumbnail-img: /assets/img/wisata malang.jpg
-share-img: /assets/img/wisata malang.jpg
+cover-img: /assets/img/wisata-malang.jpg
+thumbnail-img: /assets/img/wisata-malang.jpg
+share-img: /assets/img/wisata-malang.jpg
 tags: [wisata, Malang]
 ---
 
